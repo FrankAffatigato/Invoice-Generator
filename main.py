@@ -1,0 +1,1 @@
+# This script takes in raw csv files and generates structured invoices
